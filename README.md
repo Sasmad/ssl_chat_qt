@@ -1,1 +1,0 @@
-# ssl_chat_qt
