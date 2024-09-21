@@ -1,0 +1,2 @@
+В командной строке: doxygen Doxyfile
+Потом: docs -> html -> files.html
